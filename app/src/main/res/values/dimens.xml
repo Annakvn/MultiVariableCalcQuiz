@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="questionMargin">7dp</dimen>
+    <dimen name="borderHeight">1dp</dimen>
+    <dimen name="questionSize">23sp</dimen>
+    <dimen name="questionPhraseSize">18sp</dimen>
+    <dimen name="phraseLeftMargin">10dp</dimen>
+    <dimen name="phraseBottomMarg">10dp</dimen>
+    <dimen name="phraseTopMarg">10dp</dimen>
+</resources>

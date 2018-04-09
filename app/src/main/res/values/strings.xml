@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Multi-Variable Calc.Quiz</string>
+    <string name="question1">What shape is this?</string>
+    <string name="hintText">Answer</string>
+    <string name="ellipsoid">(x^2/a^2)+(y^2/b^2)+(z^2/c^2)=1</string>
+    <string name="cone">(x^2/a^2)+(y^2/b^2)=(z^2/c^2)</string>
+    <string name="cylinder">(x^2/a^2)+(y^2/b^2)=1</string>
+    <string name="oneSheet">(x^2/a^2)+(y^2/b^2)-(z^2/c^2)=1</string>
+    <string name="twoSheet">(-x^2/a^2)-(y^2/b^2)+(z^2/c^2)=1</string>
+    <string name="question2">What is the general equation for this shape?</string>
+    <string name="questionThree">Which are general quadratic equations?</string>
+    <string name="title">Surfaces</string>
+</resources>
